@@ -1,0 +1,61 @@
+h1 {
+    color: rgb(9, 9, 131);
+    font-size: 70px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-shadow: 10px 10px 10px black;
+    text-align: center;
+   
+}
+
+h2{
+    font-weight: bold;
+    font-style: italic;
+    text-transform: initial;
+    text-indent: 0cqh;
+    line-height: 0cqh;
+    color: rgb(1, 1, 139);
+    text-align: center;
+}
+#Aparência {
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid rgb(42, 42, 148);
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+#Habilidades {
+    text-align: center;
+    border: 3px solid rgb(42, 42, 150);
+    border-radius: 20px;
+     margin-bottom: 10px;
+} 
+
+#Habitat {
+    text-align: center;
+    border: 3px solid rgb(42, 42, 148);
+    border-radius: 20px;
+     margin-bottom: 10px;
+}
+
+#Curiosidades {
+    text-align: center;
+    border: 3px solid rgb(42, 42, 165);
+    border-radius: 20px;
+     margin-bottom: 10px;
+}
+
+img {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+     border-radius: 50%;
+     width: 50%;
+     height: 50%;
+      margin-bottom: 10px;
+}
+
+body {
+    background-color: rgb(177, 177, 197);
+}
